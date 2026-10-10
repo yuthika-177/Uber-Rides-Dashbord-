@@ -64,6 +64,6 @@ Create the MySQL database and import the CSV into a table named uber_rides_india
 Run sql/uber_analysiss.sql to clean the data and run the queries.
 In the notebook, set your own MySQL password in the connection string (do not commit it), then run the cells.
 Open the .pbix file in Power BI Desktop.
-Author
 
+Author
 Yuthika
